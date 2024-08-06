@@ -1,65 +1,52 @@
-<!--
-**Poobeshkc/Poobeshkc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Poobesh k c! 👋
+ 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/smGCEo5zsAXtK4bqAT/giphy.gif" width="200"/>
-</div>
-<div id="badges"  align="center">
-  <a href="[Poobeshkc](https://www.linkedin.com/in/Poobeshkc/)">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-   
-  </a>
-<!--   <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a> -->
-<!--   <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a> -->
-</div>
-<div align="center>
-<img src="https://komarev.com/ghpvc/?username=Poobeshkc&style=flat-square&color=blue" alt=""/></div>
-<h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+<div>
+ <h2>🚀 About Me</h2>
 </div>
 
+<!--     <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p> -->
 
-### :woman_technologist: About Me :
-- :telescope: I’m entry-level candidate, contributing to frontend and backend for building web applications.
+ - :telescope: I’m entry-level candidate, contributing to frontend and backend for building web applications.
  
 - :seedling: Exploring Technical Content Writing.
  
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Poobeshkc-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/Poobeshkc/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-poobeshkc-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/poobeshkc/)
 
 - 📫 Also reach me in :poobeshc@gmail.com
 
- 
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40"  height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+
+<div align="center">
+  <h2>🚀 Github Commits</h2>
+    <p>This section highlights my daily activity, showcasing the repositories I am currently working on. Each commit represents progress or fixes to ongoing projects, reflecting my commitment to continuous improvement and collaborative development. Dive into the commit messages for insights into what I've been up to!</p>
+  <img src="https://raw.githubusercontent.com/zanepearton/zanepearton/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Animation Dark Mode"/>
+  <img src="https://raw.githubusercontent.com/zanepearton/zanepearton/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Grid Snake Animation Light Mode"/>
 </div>
+
+
+### :hammer_and_wrench: Languages , Tools and Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,mongodb,php,mysql,java,eclipse,c,git,docker&perline=6)](https://skillicons.dev)
+ 
 
 ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Poobeshkc&layout=compact&theme=vision-friendly-dark)](https://git.io/streak-stats)
 ###
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Poobeshkc&layout=compact&theme=vision-friendly-dark)](https://github.com/Poobeshkc/github-readme-stats)
+
+<table align="center" width="100%" height="100%" >
+    <tr>
+       <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Poobeshkc&theme=github_dark" alt="Tharun's's GitHub Stats"/></td>  
+<!--        <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=Tharunvikas55&theme=merko" alt="Zane's Contribution Streak"/></td> -->
+    </tr>
+ </table>
+<!--  <table align="center" width="100%" height="100%" >
+    <tr>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zanepearton&theme=github_dark" alt="Zane's GitHub Stats"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zanepearton&theme=github_dark&utcOffset=10" alt="Zane's GitHub Stats"/>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zanepearton&theme=github_dark" alt="Zane's GitHub Stats"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zanepearton&theme=github_dark" alt="Zane's GitHub Stats"/></td>
+    </tr>
+ </table> -->
+
+
+Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
